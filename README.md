@@ -20,14 +20,14 @@ RAZORPAY_KEY_SECRET =
 STRIPE_SECRET_KEY = 
 ```
 
-### Build the app
+### Build the server
 
 ```shell
 cd server
 npm install
 ```
 
-### Start the app
+### Start the server
 
 ```shell
 npm run server
@@ -40,14 +40,14 @@ VITE_BACKEND_URL =
 VITE_RAZORPAY_KEY_ID = 
 ```
 
-### Build the app
+### Build the client
 
 ```shell
 cd client
 npm install
 ```
 
-### Start the app
+### Start the client
 
 ```shell
 npm run dev
