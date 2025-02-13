@@ -36,8 +36,8 @@ npm run server
 ### Setup .env file inside client
 
 ```js
-VITE_BACKEND_URL = 'http://localhost:4000'
-VITE_RAZORPAY_KEY_ID = 'rzp_test_pBx80W4VR1h80b'
+VITE_BACKEND_URL = 
+VITE_RAZORPAY_KEY_ID = 
 ```
 
 ### Build the app
