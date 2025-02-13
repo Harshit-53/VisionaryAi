@@ -6,6 +6,7 @@ Highlights:
 - 🎃 Authentication && Authorization with JWT
 - 🐞 Error handling both on the server and on the client
 - ✨ Simple API integration
+- 🌟 Payment integration with razorpay and stripe
 
 ### Setup .env file inside server
 
